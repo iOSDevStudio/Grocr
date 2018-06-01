@@ -1,0 +1,14 @@
+{
+  "grocery-items": {
+    "milk": {
+      "name": "Milk",
+      "addedByUser": "David",
+      "completed": false
+    },
+    "pizza": {
+      "name": "Pizza",
+      "addedByUser": "Alice",
+      "completed": false
+    }
+  }
+}
